@@ -13,7 +13,7 @@
         "id": 2,
         "title": "Tier 2",
         "until_pts": 50000,
-        "description": "Accomadation must be basic with amenities, with meals primarily from convenience stores (コンビニ) such as 7/11"
+        "description": "Accomadation must be basic with amenities, with meals primarily from convenience stores"
       },
       {
         "id": 3,
@@ -37,7 +37,7 @@
       },
       {
         "id": 3,
-        "title": "Purchase 10 Onigiris and sell them for profit (+300 points per sale, 3000 total)",
+        "title": "Purchase 10 Bananas and sell them for profit (+300 points per sale, 3000 total)",
         "point_reward": 3000,
         "completed_at": null
       },
@@ -49,13 +49,13 @@
       },
       {
         "id": 5,
-        "title": "Ice Vs Joel round 2 - Sushi Challenge. +1000 points for each plate you eat. -500 points for each plate Joel eats.",
+        "title": "Ice Vs Joel round 2 - Momo Challenge. +1000 points for each plate you eat. -500 points for each plate Joel eats.",
         "point_reward": 1000,
         "completed_at": null
       },
       {
         "id": 6,
-        "title": "Explore the JDM car scene in Daikoku",
+        "title": "Explore the JDM car scene in Kathmandu",
         "point_reward": 4000,
         "completed_at": null
       },
@@ -79,14 +79,14 @@
       },
       {
         "id": 10,
-        "title": "Have orgy with kang and other japanese dudes and girls",
+        "title": "Have party with kang and other japanese dudes and girls",
         "point_reward": 10000,
-        "completed_at": "2024-04-05T16:01:12.741Z"
+        "completed_at": null
       }
     ],
     "daily_scenarios": {
-      "object": "luffy figure",
-      "word": "chotto mathe(slow down)"
+      "object": "dhaka topi (hat)",
+      "word": "chor (thief)"
     }
   }
 }
