@@ -27,13 +27,13 @@
         "id": 1,
         "title": "Purchase a new outfit of chat's choice to wear all day",
         "point_reward": 1000,
-        "completed_at": "2024-04-06T08:50:28.544Z"
+        "completed_at": null
       },
       {
         "id": 2,
         "title": "Find the mysterious old man and ask about his life story",
         "point_reward": 2500,
-        "completed_at": "2024-04-06T08:56:34.296Z"
+        "completed_at": null
       },
       {
         "id": 3,
@@ -51,31 +51,31 @@
         "id": 5,
         "title": "Ice Vs Joel round 2 - Sushi Challenge. +1000 points for each plate you eat. -500 points for each plate Joel eats.",
         "point_reward": 1000,
-        "completed_at": "2024-04-06T08:50:17.480Z"
+        "completed_at": null
       },
       {
         "id": 6,
         "title": "Explore the JDM car scene in Daikoku",
         "point_reward": 4000,
-        "completed_at": "2024-04-06T08:48:56.800Z"
+        "completed_at": null
       },
       {
         "id": 7,
         "title": "Lock in a 2nd date with maya for today or in the coming days. Make reservations to confirm.",
         "point_reward": 5000,
-        "completed_at": "2024-04-06T08:48:51.584Z"
+        "completed_at": null
       },
       {
         "id": 8,
         "title": "Take a gamble. Play a best of 5 game of rock paper scissors with a stranger. If you win, stay at the four seasons for 1 night. If you lose, -6000 points.",
         "point_reward": 0,
-        "completed_at": "2024-04-06T08:47:24.256Z"
+        "completed_at": null
       },
       {
         "id": 9,
         "title": "Make someone random kick streamer. Buy them all the gears and stuff.",
         "point_reward": 10000,
-        "completed_at": "2024-04-06T08:26:54.193Z"
+        "completed_at": null
       },
       {
         "id": 10,
