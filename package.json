@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "iceposeidonvsnepal-api",
+  "version": "1.0.0",
+  "description": "simple json server",
+  "main": "server.js",
+  "author": "anish",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
